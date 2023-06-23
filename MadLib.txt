@@ -1,16 +1,15 @@
-Noun:mc donalds 
-Verb:flying
-Noun:popcicle
-Plural Noun:boots 
-Plural Noun:cats
-Noun:whitehouse
-Noun:Judical branch
-Adjective:extrodinary
-Adverb:absentimindedly
-Adjective:exquisite
-Plural Noun:dogs
-Part of the body:spinal fluid
-Noun:military
-Noun:greenhouse
-Part of the body:appendix
-
+house
+flying
+goose
+boots
+fish
+white house
+cat
+green
+absentimindedly
+exquisite
+cacti
+spinal fluid
+military
+shark
+appendix
