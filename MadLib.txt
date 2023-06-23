@@ -1,16 +1,15 @@
-Noun: house
-Verb: run
-Noun: goose
-Plural Noun: geese
-Plural Noun: fish
-Noun: hat
-Noun: cat
-Adjective: green
-Adverb: slowly
-Adjective: blue
-Plural Noun: cacti
-Part of the body: head
-Noun: choker
-Noun: shark
-Part of the body: tongue
-
+house
+flying
+goose
+boots
+fish
+white house
+cat
+green
+absentimindedly
+exquisite
+cacti
+spinal fluid
+military
+shark
+appendix
