@@ -1,16 +1,16 @@
-Noun:
-Verb:
-Noun:
-Plural Noun:
-Plural Noun:
-Noun:
-Noun:
-Adjective:
-Adverb:
-Adjective:
-Plural Noun:
-Part of the body:
-Noun:
-Noun:
-Part of the body:
+Noun: house
+Verb: run
+Noun: goose
+Plural Noun: geese
+Plural Noun: fish
+Noun: hat
+Noun: cat
+Adjective: green
+Adverb: slowly
+Adjective: blue
+Plural Noun: cacti
+Part of the body: head
+Noun: choker
+Noun: shark
+Part of the body: tongue
 
