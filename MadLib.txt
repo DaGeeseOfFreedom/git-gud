@@ -1,16 +1,16 @@
-Noun:
-Verb:
-Noun:
-Plural Noun:
-Plural Noun:
-Noun:
-Noun:
-Adjective:
-Adverb:
-Adjective:
-Plural Noun:
-Part of the body:
-Noun:
-Noun:
-Part of the body:
+Noun:mc donalds 
+Verb:flying
+Noun:popcicle
+Plural Noun:boots 
+Plural Noun:cats
+Noun:whitehouse
+Noun:Judical branch
+Adjective:extrodinary
+Adverb:absentimindedly
+Adjective:exquisite
+Plural Noun:dogs
+Part of the body:spinal fluid
+Noun:military
+Noun:greenhouse
+Part of the body:appendix
 
